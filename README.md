@@ -1,6 +1,6 @@
 # Connect4
 
-A very simple connect4 game writen in Java, this game was my OOP test, wich I made from around October to December of 2020. Unfotunately everything was writen in portuguese, witch  may make things a little hard for non speakers, but it's not that difficult to understand. Also, I was never able to build a good GUI for this game, so I would appreciate a lot if you could contribute with this!
+A very simple Connect 4 game written in Java. This game was my OOP test, which I developed from around October to December of 2020. Unfortunately, everything was written in Portuguese, which may make things a little challenging for non-speakers, but it's not that difficult to understand. Also, I was never able to build a good GUI for this game, so I would greatly appreciate it if you could contribute to it!
 
 Feel free to use anything you want!
 
